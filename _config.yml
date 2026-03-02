@@ -12,12 +12,12 @@
 title: Academic Portfolio Template
 description: "a basic personal or professional portfolio template for Jekyll with GitHub Pages"
 year: 2026
-author: ISU Cyclone
-bio:
+author: Olivia Wikle
+bio: This is me!
 # personal urls
 image: /assets/img/emoji-cool.png
 email:
-github:
+github: https://github.com/owikle
 department:
 orcid:
 cv:
