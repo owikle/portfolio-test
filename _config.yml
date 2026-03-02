@@ -15,12 +15,12 @@ year: 2026
 author: Olivia Wikle
 bio: This is me!
 # personal urls
-image: /assets/img/emoji-cool.png
-email:
+image: /assets/img/dog.jpg
+email: omwikle@iastate.edu
 github: https://github.com/owikle
-department:
-orcid:
-cv:
+department: https://www.lib.iastate.edu/
+orcid: https://orcid.org/0000-0001-8122-416
+cv: /assets/demo-cv.pdf
 #organization-name: 
 # add search box to navbar, true/false
 search: false
