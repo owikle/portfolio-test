@@ -12,7 +12,7 @@ layout: default
             {% if site.department %}<p class="text-muted text-small my-2"><span class="fas fa-school"></span> <a href="{{ site.department }}" target="_blank" rel="noopener">Department</a></p>{% endif %}
             {% if site.orcid %}<p class="text-muted text-small my-2"><span class="fas fa-id-card"></span> <a href="{{ site.orcid }}" target="_blank" rel="noopener">ORCiD</a></p>{% endif %}
             {% if site.github %}<p class="text-muted text-small my-2"><span class="fab fa-github"></span> <a href="{{ site.github }}" target="_blank" rel="noopener">GitHub</a></p>{% endif %}
-            {% if site.cv %}<p class="text-muted text-small my-2"><span class="fa-regular fa-file"></span> <a href="{{ site.cv }}" target="_blank" rel="noopener">CV</a></p>{% endif %}
+            {% if site.cv %}<p class="text-muted text-small my-2"><span class="fa-regular fa-file"></span> <a href="{{ site.cv | relative_url }}" target="_blank" rel="noopener">CV</a></p>{% endif %}
             </div>
         </div>
         <div class="col-md-9">
